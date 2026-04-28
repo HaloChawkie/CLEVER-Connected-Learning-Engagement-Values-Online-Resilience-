@@ -37,7 +37,7 @@ CLEVER exists to bridge that gap through simple, usable, and open resources.
 
 CLEVER is designed as a global, open collaboration.
 
-We welcome contributions from youth workers, educators, and organisations across Ireland, the UK, Europe, and the USA, and are actively building connections internationally.
+We welcome contributions from youth workers, educators, and organisations worldwide who are passionate about this area, and are actively building an international network of collaborators.
 
 ## Contribute
 
