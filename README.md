@@ -1,4 +1,4 @@
-# CLEVER-Connected-Learning-Engagement-Values-Online-Resilience-
+# CLEVER-Connected Learning Engagement Values Online Resilience
 # CLEVER  
 Connected Learning, Engagement, Values & Online Resilience  
 
